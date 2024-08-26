@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Taskify.**
 
-- 🌱 I’m currently learning **ML/AI and Sveltekit.**
+- 🌱 I’m currently learning **GoLang.**
 
 - 👯 I’m looking to collaborate on **Data Science Projects!**
 
