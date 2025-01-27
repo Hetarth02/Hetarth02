@@ -34,7 +34,7 @@
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth02&theme=dark" alt="hetarth02" />
+    <img align="center" src="https://streak-stats.demolab.com?user=Hetarth02&theme=dark" alt="hetarth02" />
 </p>
 
 <h2 align="center">Connect with me:</h2>
@@ -42,8 +42,5 @@
 <p align="center">
     <a href="https://linkedin.com/in/hetarth-shah-1ab392220" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetarth-shah-1ab392220" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/sophist._.guy" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sophist._.guy" height="30" width="40" />
     </a>
 </p>
