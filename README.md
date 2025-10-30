@@ -7,13 +7,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **Taskify.**
+- 🔭 I’m currently working on **DeFatigue**.
 
 - 🌱 I’m currently learning **GoLang.**
 
-- 👯 I’m looking to collaborate on **Data Science Projects!**
-
-- 💬 Ask me about **Python and Laravel.**
+- 👯 I’m looking to collaborate on **ML/AI!**
 
 - 📫 Reach me at **hetarth02@gmail.com**
 
